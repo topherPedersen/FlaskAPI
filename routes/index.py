@@ -5,4 +5,4 @@ from utilities import *
 
 def index():
     foo()
-    return 'Flask API says, "Hello!"'
+    return 'Flask API says Hello!'
