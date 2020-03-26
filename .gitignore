@@ -1,4 +1,6 @@
 /__pycache__*
 /routes/__pycache__*
 /utilities/__pycache__*
+routes/__pycache__
+utilities/__pycache__
 venv
