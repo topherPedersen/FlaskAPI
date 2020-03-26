@@ -3,6 +3,6 @@ sys.path.append("..")
 
 from utilities import *
 
-def index():
+def bar():
     silly_utility_function()
-    return 'Flask API says Hello!'
+    return 'BAR ROUTE!'

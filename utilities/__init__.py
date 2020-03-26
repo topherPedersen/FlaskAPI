@@ -1,1 +1,1 @@
-from .foo import foo
+from .silly_utility_function import silly_utility_function
